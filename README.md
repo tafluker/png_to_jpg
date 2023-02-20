@@ -3,7 +3,7 @@ Convert all pngs in a directory to jpgs
 
 #Change the file path!
 
-<img src="../png snip.jpg" alt="Alt text">
+<img src="https://github.com/tafluker/png_to_jpg/blob/main/png%20snip.png?raw=true" alt="Alt text">
 
 #Copy and paste into Powershell ISE
 
