@@ -23,7 +23,7 @@ Convert all pngs in a directory to jpgs
     
 #**STOP** COPYING HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-# Step 2 Find Powershell on your computer
+# Step 2 Find and open Powershell on your computer
 
 ![image](https://user-images.githubusercontent.com/46609274/220158387-a79d67a7-a5e6-4c0b-8d7e-5063896e4256.png)
 
