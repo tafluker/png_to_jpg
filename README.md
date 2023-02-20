@@ -3,7 +3,7 @@ Convert all pngs in a directory to jpgs
 
 # Step 1 Copy this code
 
-#**START** COPYTING HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#**START** COPYING HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     $files = (Get-ChildItem -Path C:\file_type_change\ -Filter *.png).FullName
 
