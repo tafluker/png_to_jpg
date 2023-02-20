@@ -2,6 +2,7 @@
 Convert all pngs in a directory to jpgs
 
 #Change the file path!
+![alt text](./png snip)
 #Copy and paste into Powershell ISE
 
 #Copy everything below this line!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
