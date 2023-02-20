@@ -39,7 +39,9 @@ Convert all pngs in a directory to jpgs
 
 ![image](https://user-images.githubusercontent.com/46609274/220160946-1b14d356-d390-4516-9c6f-fee48c7a776f.png)
 
+# Step 6 Check your folder for the new jpgs
 
+![image](https://user-images.githubusercontent.com/46609274/220163083-a5b8bcae-25a9-461c-a1c3-66a4243bda9c.png)
 
 
 
